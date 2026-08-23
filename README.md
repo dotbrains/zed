@@ -9,7 +9,7 @@ This repository contains my sensible defaults for Zed.
 The contents of this repository should be placed in your `$HOME/.config/zed` directory.
 
 ```bash
-git clone https://github.com/dotbrains/zed.git $HOME/.config/zed
+git clone https://github.com/smeltery/zed.git $HOME/.config/zed
 ```
 
 ## License
